@@ -1,0 +1,162 @@
+[
+  {
+    "trainName": "Mysuru Express (16231)",
+    "platform": "PF 5",
+    "arrivalTime": "10:30 AM",
+    "delay": "On Time",
+    "source": "KSR Bengaluru City (SBC)",
+    "destination": "Mysuru Junction (MYS)",
+    "stops": ["KSR Bengaluru City (SBC)", "Kengeri", "Mandya", "Mysuru Junction (MYS)"],
+    "coachSequence": ["ENGINE", "GENERAL", "S1", "S2", "S3", "S4", "S5", "LADIES"]
+  },
+  {
+    "trainName": "Hubballi Superfast (20653)",
+    "platform": "PF 2",
+    "arrivalTime": "11:15 AM",
+    "delay": "10 Mins Late",
+    "source": "KSR Bengaluru City (SBC)",
+    "destination": "Hubballi Junction (UBL)",
+    "stops": ["KSR Bengaluru City (SBC)", "Yesvantpur Junction (YPR)", "Tumakuru", "Arsikere Junction (ASK)", "Davangere (DVG)", "Hubballi Junction (UBL)"],
+    "coachSequence": ["ENGINE", "GENERAL", "S1", "S2", "B1", "B2", "A1", "LADIES"]
+  },
+  {
+    "trainName": "Shatabdi Express (12007)",
+    "platform": "PF 7",
+    "arrivalTime": "12:00 PM",
+    "delay": "On Time",
+    "source": "KSR Bengaluru City (SBC)",
+    "destination": "Chennai Central (MAS)",
+    "stops": ["KSR Bengaluru City (SBC)", "Bengaluru Cantt (BNC)", "Chennai Central (MAS)"],
+    "coachSequence": ["ENGINE", "C1", "C2", "C3", "C4", "C5", "E1", "LADIES"]
+  },
+  {
+    "trainName": "Golgumbaz Express (16535)",
+    "platform": "PF 4",
+    "arrivalTime": "03:45 PM",
+    "delay": "20 Mins Late",
+    "source": "Mysuru Junction (MYS)",
+    "destination": "Vijayapura (BJP)",
+    "stops": ["Mysuru Junction (MYS)", "Mandya", "KSR Bengaluru City (SBC)", "Yesvantpur Junction (YPR)", "Tumakuru", "Arsikere Junction (ASK)", "Birur Junction (RRB)", "Davangere (DVG)", "Hubballi Junction (UBL)", "Gadag Junction (GDG)", "Vijayapura (BJP)"],
+    "coachSequence": ["ENGINE", "GEN", "S1", "S2", "S3", "B1", "A1", "LADIES"]
+  },
+  {
+    "trainName": "Tipu Express (12614)",
+    "platform": "PF 6",
+    "arrivalTime": "06:30 PM",
+    "delay": "On Time",
+    "source": "Mysuru Junction (MYS)",
+    "destination": "KSR Bengaluru City (SBC)",
+    "stops": ["Mysuru Junction (MYS)", "Mandya", "KSR Bengaluru City (SBC)"],
+    "coachSequence": ["ENGINE", "C1", "C2", "C3", "C4", "GEN", "LADIES"]
+  },
+  {
+    "trainName": "UBL-SBC Express (17392)",
+    "platform": "PF 3",
+    "arrivalTime": "08:20 PM",
+    "delay": "On Time",
+    "source": "Hubballi Junction (UBL)",
+    "destination": "KSR Bengaluru City (SBC)",
+    "stops": ["Hubballi Junction (UBL)", "Gadag Junction (GDG)", "Davangere (DVG)", "Birur Junction (RRB)", "Arsikere Junction (ASK)", "Tumakuru", "KSR Bengaluru City (SBC)"],
+    "coachSequence": ["ENGINE", "GEN", "S1", "S2", "S3", "S4", "LADIES"]
+  },
+  {
+    "trainName": "Kaveri Express (16022)",
+    "platform": "PF 1",
+    "arrivalTime": "09:15 PM",
+    "delay": "On Time",
+    "source": "Mysuru Junction (MYS)",
+    "destination": "Chennai Central (MAS)",
+    "stops": ["Mysuru Junction (MYS)", "Mandya", "KSR Bengaluru City (SBC)", "Bangarapet Junction (BWT)", "Jolarpettai", "Chennai Central (MAS)"],
+    "coachSequence": ["ENGINE", "GEN", "S1", "S2", "B1", "A1", "LADIES"]
+  },
+  {
+    "trainName": "Rani Chennamma (16589)",
+    "platform": "PF 2",
+    "arrivalTime": "11:00 PM",
+    "delay": "5 Mins Late",
+    "source": "KSR Bengaluru City (SBC)",
+    "destination": "Belagavi (BGM)",
+    "stops": ["KSR Bengaluru City (SBC)", "Yesvantpur Junction (YPR)", "Tumakuru", "Arsikere Junction (ASK)", "Birur Junction (RRB)", "Davangere (DVG)", "Hubballi Junction (UBL)", "Londa Junction (LD)", "Belagavi (BGM)"],
+    "coachSequence": ["ENGINE", "GEN", "S1", "S2", "B1", "B2", "A1", "LADIES"]
+  },
+  {
+    "trainName": "Belagavi SF (20653)",
+    "platform": "PF 1",
+    "arrivalTime": "09:00 PM",
+    "delay": "On Time",
+    "source": "KSR Bengaluru City (SBC)",
+    "destination": "Belagavi (BGM)",
+    "stops": ["KSR Bengaluru City (SBC)", "Yesvantpur Junction (YPR)", "Tumakuru", "Arsikere Junction (ASK)", "Davangere (DVG)", "Hubballi Junction (UBL)", "Londa Junction (LD)", "Belagavi (BGM)"],
+    "coachSequence": ["ENGINE", "GEN", "S1", "S2", "S3", "LADIES"]
+  },
+  {
+    "trainName": "Kalaburagi Passenger (56905)",
+    "platform": "PF 3",
+    "arrivalTime": "07:45 PM",
+    "delay": "On Time",
+    "source": "Kalaburagi Junction (KLBG)",
+    "destination": "Solapur",
+    "stops": ["Kalaburagi Junction (KLBG)", "Wadi Junction (WADI)", "Ganagapur Road", "Solapur"],
+    "coachSequence": ["ENGINE", "GEN", "GEN", "LADIES"]
+  },
+  {
+    "trainName": "Mangaluru Express (16511)",
+    "platform": "PF 1",
+    "arrivalTime": "10:15 PM",
+    "delay": "On Time",
+    "source": "KSR Bengaluru City (SBC)",
+    "destination": "Mangaluru Central (MAQ)",
+    "stops": ["KSR Bengaluru City (SBC)", "Yesvantpur Junction (YPR)", "Kunigal", "Hassan Junction (HAS)", "Sakleshpur", "Mangaluru Junction (MAJN)", "Mangaluru Central (MAQ)"],
+    "coachSequence": ["ENGINE", "S1", "S2", "S3", "S4", "B1", "LADIES"]
+  },
+  {
+    "trainName": "Shivamogga Town SF (20651)",
+    "platform": "PF 8",
+    "arrivalTime": "08:10 PM",
+    "delay": "On Time",
+    "source": "KSR Bengaluru City (SBC)",
+    "destination": "Shivamogga Town (SME)",
+    "stops": ["KSR Bengaluru City (SBC)", "Yesvantpur Junction (YPR)", "Tumakuru", "Arsikere Junction (ASK)", "Birur Junction (RRB)", "Kadur Junction (DRU)", "Bhadravati", "Shivamogga Town (SME)"],
+    "coachSequence": ["ENGINE", "C1", "C2", "GEN", "LADIES"]
+  },
+  {
+    "trainName": "Hassan Intercity (22679)",
+    "platform": "PF 5",
+    "arrivalTime": "06:15 PM",
+    "delay": "On Time",
+    "source": "KSR Bengaluru City (SBC)",
+    "destination": "Hassan Junction (HAS)",
+    "stops": ["KSR Bengaluru City (SBC)", "Yesvantpur Junction (YPR)", "Kunigal", "Hassan Junction (HAS)"],
+    "coachSequence": ["ENGINE", "GEN", "GEN", "C1", "LADIES"]
+  },
+  {
+    "trainName": "Dharwad Intercity (12725)",
+    "platform": "PF 2",
+    "arrivalTime": "07:30 PM",
+    "delay": "On Time",
+    "source": "KSR Bengaluru City (SBC)",
+    "destination": "Dharwad (DWR)",
+    "stops": ["KSR Bengaluru City (SBC)", "Yesvantpur Junction (YPR)", "Tumakuru", "Arsikere Junction (ASK)", "Davangere (DVG)", "Hubballi Junction (UBL)", "Dharwad (DWR)"],
+    "coachSequence": ["ENGINE", "GEN", "C1", "C2", "LADIES"]
+  },
+  {
+    "trainName": "Davangere Express (17330)",
+    "platform": "PF 4",
+    "arrivalTime": "09:45 PM",
+    "delay": "15 Mins Late",
+    "source": "Hubballi Junction (UBL)",
+    "destination": "Davangere (DVG)",
+    "stops": ["Hubballi Junction (UBL)", "Haveri", "Davangere (DVG)"],
+    "coachSequence": ["ENGINE", "GEN", "S1", "S2", "LADIES"]
+  },
+  {
+    "trainName": "Hampi Express (16592)",
+    "platform": "PF 1",
+    "arrivalTime": "09:30 PM",
+    "delay": "On Time",
+    "source": "Mysuru Junction (MYS)",
+    "destination": "Hubballi Junction (UBL)",
+    "stops": ["Mysuru Junction (MYS)", "KSR Bengaluru City (SBC)", "Yesvantpur Junction (YPR)", "Hindupur", "Ballari Junction (BAY)", "Hosapete Junction (HPT)", "Gadag Junction (GDG)", "Hubballi Junction (UBL)"],
+    "coachSequence": ["ENGINE", "GEN", "S1", "S2", "S3", "B1", "A1", "LADIES"]
+  }
+]

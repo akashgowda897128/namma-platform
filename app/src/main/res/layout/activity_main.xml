@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F0F4F8">
+
+    <!-- Top Section: App Title & Search -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/railway_blue"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Namma-Platform"
+            android:textColor="@color/railway_yellow"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <AutoCompleteTextView
+            android:id="@+id/currentStationSearch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="Select Your Station / ನಿಮ್ಮ ನಿಲ್ದಾಣ ಆರಿಸಿ"
+            android:background="@android:color/white"
+            android:padding="16dp"
+            android:textSize="20sp"
+            android:completionThreshold="1" />
+    </LinearLayout>
+
+    <!-- Middle Section: Train List -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/trainRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="8dp" />
+
+</LinearLayout>
